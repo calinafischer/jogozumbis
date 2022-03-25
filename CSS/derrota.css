@@ -1,0 +1,33 @@
+
+main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+section{
+    background-color: var(--principal);
+    width: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 6%;
+    height: 500px;
+    border-radius: 10px;
+
+}
+
+.titulo{
+    font-family: ;
+    color: darkgreen;
+}
+
+.menu{
+    color: grey;
+}
+
+.texto{
+    font-size: 28px;
+}
